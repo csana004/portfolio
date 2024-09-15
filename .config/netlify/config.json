@@ -1,0 +1,16 @@
+{
+	"telemetryDisabled": false,
+	"cliId": "3b884b55-d3a7-4706-84f0-a28f49c54b18",
+	"userId": "66e591c9f79a9a66ee15cab2",
+	"users": {
+		"66e591c9f79a9a66ee15cab2": {
+			"id": "66e591c9f79a9a66ee15cab2",
+			"name": "Rupsa Chakraborty",
+			"email": "ivychakraborty428@gmail.com",
+			"auth": {
+				"token": "nfc_97sHZgeqEFnrXutfpf76eX7QKhiS6XDR1cd0",
+				"github": {}
+			}
+		}
+	}
+}
